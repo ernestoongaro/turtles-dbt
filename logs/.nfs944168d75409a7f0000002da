@@ -5356,3 +5356,12 @@ drop table if exists "qpokxxvl"."dbt_eongaro"."customers__dbt_backup" cascade
 2022-06-02 11:35:09.924388 (Thread-30): handling status request
 2022-06-02 11:35:09.924859 (Thread-30): 11:35:09  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '3ffd4580-e363-4f28-8520-9f76a33c2754', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f37523653d0>]}
 2022-06-02 11:35:09.925751 (Thread-30): sending response (<Response 15587 bytes [200 OK]>) to 10.0.12.141
+2022-06-02 11:35:11.867573 (Thread-31): 11:35:11  Partial parsing enabled: 0 files deleted, 0 files added, 0 files changed.
+2022-06-02 11:35:11.867799 (Thread-31): 11:35:11  Partial parsing enabled, no changes found, skipping parsing
+2022-06-02 11:35:11.873422 (Thread-31): 11:35:11  Sending event: {'category': 'dbt', 'action': 'load_project', 'label': '3ffd4580-e363-4f28-8520-9f76a33c2754', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f37519dce80>]}
+2022-06-02 11:35:14.073511 (Thread-32): handling status request
+2022-06-02 11:35:14.073952 (Thread-32): 11:35:14  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '3ffd4580-e363-4f28-8520-9f76a33c2754', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f3751a0f490>]}
+2022-06-02 11:35:14.074451 (Thread-32): sending response (<Response 1241 bytes [200 OK]>) to 10.0.12.141
+2022-06-02 11:35:14.082650 (Thread-33): handling status request
+2022-06-02 11:35:14.082957 (Thread-33): 11:35:14  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '3ffd4580-e363-4f28-8520-9f76a33c2754', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f3751a0f250>]}
+2022-06-02 11:35:14.083379 (Thread-33): sending response (<Response 1241 bytes [200 OK]>) to 10.0.12.141
