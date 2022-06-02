@@ -1,3 +1,3 @@
 [submodule "macros/packaged_macros"]
 	path = macros/packaged_macros
-	url = git@github.com:ernestoongaro/macros-submodule.git
+	url = https://github.com/ernestoongaro/macros-submodule.git
